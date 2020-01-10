@@ -1,6 +1,6 @@
 # Expo Next Adapter Test
 
-A demonstration for showing how one repo can be the single source for Android, iOS, and the web.
+A demonstration for showing how one repo can be the single source for apps that run on Android, iOS, and the web.
 
 ## Run Locally
 
