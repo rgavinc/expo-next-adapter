@@ -20,13 +20,9 @@ yarn next dev
 
 ### App
 
-```
-- Download the expo client on Android and/or iOS [here](https://expo.io/tools)
+- Download the expo client on Android and/or iOS (https://expo.io/tools#client)
 - visit https://exp.host/@gavinrob92/test and scan the QR code
-```
 
 ### Web
 
-```
-https://test.gavinrob92.now.sh
-```
+visit https://test.gavinrob92.now.sh
